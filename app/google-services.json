@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "430104492704",
+    "firebase_url": "https://marketgo-b9109.firebaseio.com",
+    "project_id": "marketgo-b9109",
+    "storage_bucket": "marketgo-b9109.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430104492704:android:8e5d0e4bb7f72ecb",
+        "android_client_info": {
+          "package_name": "com.example.marketgo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430104492704-sqas4sh7c0t9hb8vq4feq232hab4gmoh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.marketgo",
+            "certificate_hash": "716c927804e42f3a241e90d8f43b95b08f026ce1"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3oo3AR9vfab03_61CTwqNfzc8-SH46iY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430104492704-4fc6q5nadidiigtjcchna9gef2aetf1v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
